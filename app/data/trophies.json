@@ -1,0 +1,3725 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "psnPointsTotal": 1350,
+  "sourcesRead": "20 Nov 2026",
+  "sources": [
+    {
+      "id": 1,
+      "name": "PowerPyx",
+      "title": "GTA 6 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "Full methods for 49 of 55 trophies; the only source with methods for #44, #45 and #50; stated beliefs only for #49 and #51."
+    },
+    {
+      "id": 2,
+      "name": "OutputLag",
+      "title": "GTA 6 Trophy List: All 55 Trophies and Achievements",
+      "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "Full methods for 23 trophies, one-line or group notes for 21 more, list rows for 6; explicitly unconfirmed for 5."
+    },
+    {
+      "id": 3,
+      "name": "KeenGamer",
+      "title": "GTA 6 Trophy Guide & Platinum Roadmap – All 55 Trophies",
+      "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "Full methods for 6 trophies, one-line table rows for 44 more, the most detailed 100%-checklist threshold tables anywhere; explicitly unconfirmed for 5."
+    },
+    {
+      "id": 4,
+      "name": "eGamers",
+      "title": "GTA 6 Trophy List: All 55 Trophies And Achievements, Plus The Hardest Ones",
+      "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "No original methods: every method tip is explicitly attributed to GTABase or PowerPyx (second-hand). 32 one-line requirement notes are its own; 5 trophies listed unconfirmed."
+    },
+    {
+      "id": 5,
+      "name": "GTABase",
+      "title": "GTA 6 Trophy Guide & Achievements List (PS5 & Xbox Series X|S)",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "Full methods for 50 of 55 trophies, with per-trophy Gamerscore; hint-only or unconfirmed for 5."
+    },
+    {
+      "id": 6,
+      "name": "Exophase",
+      "title": "Grand Theft Auto VI Trophies (PS5)",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "read": "2026-11-20",
+      "kind": "list",
+      "supports": "List-only for all 55. Deliberately not used for claims: its day-one rarity is internally inconsistent (Just Like Paradise 99.99% next to Paradise Lost 0.73% — everyone finishing Chapter 1 must hold the opening-mission trophy)."
+    },
+    {
+      "id": 7,
+      "name": "PSNProfiles",
+      "title": "Grand Theft Auto VI Trophies",
+      "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
+      "read": "2026-11-20",
+      "kind": "list",
+      "supports": "List-only for all 55, plus real progress counters on 20 trophies (0/100, 0/250, 0/9, 0/42, 0/14, 0/20, 0/8, 0/18, 0/3, 0/100, 0/50, 0/100, 0/5, 0/52, 0/9, 0/500, 0/250000, 0/100000, 0/8, 0/10). Cited only where a counter is genuinely used; no methods anywhere on the site."
+    },
+    {
+      "id": 8,
+      "name": "GTA Zone",
+      "title": "GTA 6 Trophy List: All 55 Trophies and Achievements",
+      "url": "https://gta-zone.com/news/gta-6-trophies-achievements/",
+      "read": "2026-11-20",
+      "kind": "guide",
+      "supports": "Full methods for 21 trophies, one-line notes for 29 more; explicitly unconfirmed for 5. An explicit synthesis of PowerPyx and GTABase, not an independent guide."
+    }
+  ],
+  "stages": [
+    {
+      "id": "S0",
+      "title": "GOAL — 100% AND THE PLATINUM",
+      "intro": "Start here — the platinum is the last trophy you earn, and A Long Road is the longest job on the list."
+    },
+    {
+      "id": "S1",
+      "title": "OPENING & CHAPTER 1",
+      "intro": "Start here — the one missable trophy lives in this chapter. Do Lucia's balcony meditation before Chapter 1 ends."
+    },
+    {
+      "id": "S2",
+      "title": "CHAPTERS 2–3",
+      "intro": "The map widens, duo play opens, and the side questlines start marking themselves."
+    },
+    {
+      "id": "S3",
+      "title": "CHAPTER 4 & THE FINALE",
+      "intro": "Bank vaults, the last story missions, and the final mission."
+    },
+    {
+      "id": "S4",
+      "title": "SIDE CONTENT & LONG GRINDS",
+      "intro": "Stranger strands, hunting, cards, WAiNK scans, and maxing Strength — all still open after the story."
+    },
+    {
+      "id": "S5",
+      "title": "ACTIVITIES & THE MAP",
+      "intro": "Stunts, ranges, races, challenges, vehicles, and unfogging all of Leonida."
+    },
+    {
+      "id": "S6",
+      "title": "FREE-ROAM FEATS & MYSTERIES",
+      "intro": "One-off stunts and the five vague hidden trophies — two of them still have no confirmed method anywhere."
+    },
+    {
+      "id": "S7",
+      "title": "MONEY & CLEANUP",
+      "intro": "The last robberies, the last dollars, the last garages — then the platinum pops."
+    }
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "stage": "S0",
+      "roadmapOrder": 1,
+      "kinds": [],
+      "difficulty": 4,
+      "timeMin": 12000,
+      "psnPoints": 300,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "The platinum. It pops by itself the moment the other 54 trophies are done — about 200 hours of play, all of it offline.",
+      "steps": [
+        {
+          "text": "Earn the other 54 trophies first — the platinum pops on its own the moment the last one lands, in single-player only, with no DLC needed.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Plan around the long tail: roughly 200 hours in total, about 60–80 on the story, about 100 on the 100% checklist, and about 10 on cleanup.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "There is no online trophy and no difficulty setting, so one playthrough with free-roam after the story is enough.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D8",
+          "title": "Platinum time: ~200 hours vs 300+ hours",
+          "a": "About 200 hours: PowerPyx, GTABase, KeenGamer, OutputLag, eGamers and GTA Zone all land near 200 hours.",
+          "aCites": [
+            1,
+            2,
+            3,
+            5,
+            8
+          ],
+          "b": "Up to 300 hours or more, per Push Square (bonus source, not in the numbered list). All figures are launch-week estimates, not measured averages — no player could have finished a 200-hour checklist in the first days.",
+          "bCites": []
+        },
+        {
+          "id": "D9",
+          "title": "Cheat block scope: disables trophies + saving vs session-only block",
+          "a": "Cheats disable trophies and saving the game (PowerPyx, OutputLag, GTA Zone).",
+          "aCites": [
+            1,
+            2,
+            8
+          ],
+          "b": "GTABase says the block is temporary, for the current game session only — the way it worked in GTA 5 and RDR2. GTA Zone itself notes GTABase's session view.",
+          "bCites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S1",
+      "roadmapOrder": 3,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 15,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "The first story trophy. Finish the opening mission, Gone Fishing, in Chapter 1 — automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the first main mission, Gone Fishing, in Chapter 1 — the trophy is automatic and cannot be missed.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "It pops as the mission ends, so there is nothing to prepare and no way to lock yourself out.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S1",
+      "roadmapOrder": 4,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 360,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Chapter 1. It pops as Chapter 2 begins — automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Finish Chapter 1 by playing through to the first main mission of Chapter 2, What's in the Bag? — the trophy pops as the new chapter starts.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Story trophies are automatic; keep playing and it lands on its own.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 9,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 900,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Chapter 2. It pops as Chapter 3 begins, after Welcome to Vice City — automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Finish Chapter 2; the trophy pops after the first main mission of Chapter 3, Welcome to Vice City.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable — no side content is needed for it.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 13,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 1800,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Chapter 3. It pops after the first two missions of Chapter 4 — automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Finish Chapter 3; it pops after the first two main missions of Chapter 4, Ocean Beach and Another Life.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic story trophy — just keep playing the main missions.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 21,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 2700,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Chapter 4. PowerPyx says it pops after the final mission of the chapter, Starting From Zero — the chapter number itself is disputed.",
+      "steps": [
+        {
+          "text": "Finish Chapter 4; PowerPyx says it pops after the final main mission of the chapter, Starting From Zero.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Automatic and unmissable — the chapter trophy needs no extra step.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D4",
+          "title": "Final mission chapter: Chapter 4 vs Chapter 5 (and PowerPyx vs itself)",
+          "a": "The finale sits in Chapter 4: PowerPyx says the final mission is Starting From Zero in Chapter 4, and gives that same mission for both #6 and #7.",
+          "aCites": [
+            1
+          ],
+          "b": "GTABase places Operation Savage Glory (#13) in Chapter 5, GTA Zone likewise lists Snow Storm as a Chapter 5 mission, and eGamers notes Beebom and CULTR word the final mission as Chapter 5.",
+          "bCites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 25,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 2,
+      "timeMin": 3600,
+      "psnPoints": 90,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish the final story mission. PowerPyx names it Starting From Zero; the chapter number is disputed between sources.",
+      "steps": [
+        {
+          "text": "Play the final story mission to the end — PowerPyx names it Starting From Zero.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Free-roam carries on afterwards, and no trophy depends on how you play a mission.",
+          "cites": [
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D4",
+          "title": "Final mission chapter: Chapter 4 vs Chapter 5 (and PowerPyx vs itself)",
+          "a": "The finale sits in Chapter 4: PowerPyx says the final mission is Starting From Zero in Chapter 4, and gives that same mission for both #6 and #7.",
+          "aCites": [
+            1
+          ],
+          "b": "GTABase places Operation Savage Glory (#13) in Chapter 5, GTA Zone likewise lists Snow Storm as a Chapter 5 mission, and eGamers notes Beebom and CULTR word the final mission as Chapter 5.",
+          "bCites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 10,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 900,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the Chapter 2 mission Breakfast Run — it pops during the mission. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the Chapter 2 story mission Breakfast Run — the trophy pops during it.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 14,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 2,
+      "timeMin": 1800,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the Chapter 3 mission The Cartel Heist — it pops during the mission. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the Chapter 3 story mission The Cartel Heist — it pops during it.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 22,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 2700,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the Chapter 4 mission Child's Play — it pops during the mission. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the Chapter 4 story mission Child's Play — it pops during it.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 23,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 1,
+      "timeMin": 2700,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the Chapter 4 mission Headliners — it pops during the mission. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the Chapter 4 story mission Headliners — it pops during it.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 24,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 2,
+      "timeMin": 2700,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the Chapter 4 mission VCIA Takedown — it pops during the mission. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the Chapter 4 story mission VCIA Takedown — it pops during it.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S3",
+      "roadmapOrder": 26,
+      "kinds": [
+        "story"
+      ],
+      "difficulty": 2,
+      "timeMin": 3600,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Play the mission Operation Savage Glory — GTABase places it in Chapter 5. Automatic, unmissable.",
+      "steps": [
+        {
+          "text": "Play the story mission Operation Savage Glory — GTABase places it in Chapter 5.",
+          "cites": [
+            5
+          ]
+        },
+        {
+          "text": "Automatic and unmissable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D4",
+          "title": "Final mission chapter: Chapter 4 vs Chapter 5 (and PowerPyx vs itself)",
+          "a": "PowerPyx says the final mission is Starting From Zero in Chapter 4, and gives that same mission for both #6 and #7.",
+          "aCites": [
+            1
+          ],
+          "b": "GTABase places Operation Savage Glory (this trophy) in Chapter 5, GTA Zone likewise lists Snow Storm as a Chapter 5 mission, and eGamers notes Beebom and CULTR word the final mission as Chapter 5.",
+          "bCites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "stage": "S0",
+      "roadmapOrder": 2,
+      "kinds": [],
+      "difficulty": 5,
+      "timeMin": 6000,
+      "psnPoints": 90,
+      "counter": {
+        "target": 100,
+        "label": "% of the 100% checklist",
+        "unit": "%"
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "The hardest trophy: reach 100% completion. The thresholds are lenient — about 60% true completion — and nothing on the list is missable.",
+      "steps": [
+        {
+          "text": "Open the checklist after the story under Progress > Stats > 100% Completion — work done during the story already counts.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Clear any 100 optional missions; there are far more than 100, so do them as they appear.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Scan 200 of the 277 base-model vehicles with WAiNK and study 100 of the 255 animals with binoculars.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Finish 70 of the 80 challenges and 300 of the 397 stunts.",
+          "cites": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Complete the all-or-nothing rows in full: all 8 bank vaults, all 39 gang operations, all underwater discoveries, all 42 shooting-range golds, all 42 drone races, and all 15 of Bret's Target Decks.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Meditate at 15 of the 18 spots, scan 100 WAiNK locations, and finish 15 of the 18 card sets.",
+          "cites": [
+            1,
+            3
+          ]
+        },
+        {
+          "text": "Remember the thresholds are lenient — about 60% true completion — and nothing on the list is missable.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D10",
+          "title": "\"Robberies in full\" for 100%: everything vs partial counts",
+          "a": "PowerPyx and GTABase: the only tasks that require everything are robberies, underwater discoveries, shooting ranges, drone races, and Bret's quests — all 8 bank vaults and all 39 gang operations included.",
+          "aCites": [
+            1,
+            5
+          ],
+          "b": "KeenGamer's 100% table gives partial counts inside robbery types: Smash 'N' Grabs 34 of 35 and Stick Ups 50 of 91. KeenGamer agrees with version A on bank vaults 8/8 and gang operations 39/39 — the tension may be definitional, not a direct contradiction.",
+          "bCites": [
+            3
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 34,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 3,
+      "timeMin": 600,
+      "psnPoints": 30,
+      "counter": {
+        "target": 250,
+        "label": "stunts completed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Complete any 250 of the 397 stunts. Flying under bridges is quickest — and 100% needs 300, so keep going.",
+      "steps": [
+        {
+          "text": "Complete any 250 of the 397 stunts, in any mix of the four kinds: 130 stunt jumps, 202 under-the-bridge flights, 40 knife flights, 25 base jumps.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Flying under bridges is the quickest kind — pick those first.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Track progress per region under Progress > Activities > Stunts and on the map under Exploration > Stunt Spots.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Keep going to 300 afterwards — the 100% checklist needs 300.",
+          "cites": [
+            1,
+            2,
+            8
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 35,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 2,
+      "timeMin": 120,
+      "psnPoints": 15,
+      "counter": {
+        "target": 9,
+        "label": "activity types tried",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Try all 9 activity types once — fishing, hunting, golf, shooting ranges, pool, basketball, a video game, a race win, and a stunt.",
+      "steps": [
+        {
+          "text": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, a video game, winning a race, and a stunt.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Check what is left under Touchpad > Progress > Activities.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Filter the map for Activities (blue dumbbell icon) to find each type.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Most come automatically while doing other trophies, so this usually pops on its own.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 36,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 4,
+      "timeMin": 900,
+      "psnPoints": 30,
+      "counter": {
+        "target": 42,
+        "label": "shooting-range gold medals",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Earn gold in all 42 Shooting Range challenges. Every source agrees on 42 medals — they disagree on whether there are 12 ranges or 2.",
+      "steps": [
+        {
+          "text": "Earn a gold medal in all 42 Shooting Range challenges.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "There are 12 ranges holding the 42 golds between them.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Ranges also raise your Focus level, which helps Gunslinger (#36).",
+          "cites": [
+            5
+          ]
+        },
+        {
+          "text": "Aim for gold on every challenge — the medal count is agreed at 42 even though sources differ on the range count.",
+          "cites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D3",
+          "title": "Shooting range locations: 12 ranges vs 2 ranges",
+          "a": "12 ranges: GTABase and GTA Zone both say 42 golds across 12 ranges, and PowerPyx links a guide titled All 12 Shooting Range Locations & 42 Gold Medals.",
+          "aCites": [
+            5,
+            8
+          ],
+          "b": "2 ranges: OutputLag hedges that there should be two shooting ranges with 42 gold medals between them, and Push Square (bonus source) names both — Rodgers Ranch & Shooting Range in Port Gellhorn, and Griffin Shooting Range in Balsero.",
+          "bCites": [
+            2
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 37,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 3,
+      "timeMin": 300,
+      "psnPoints": 15,
+      "counter": {
+        "target": 14,
+        "label": "drone race locations won",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Win a Top Fun Drone Race at each of the 14 locations. One win per location is enough here — 100% wants all 42 races.",
+      "steps": [
+        {
+          "text": "Win a Top Fun Drone Race at each of the 14 locations — one win per location is enough here.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "The 100% checklist wants all 42 drone races across those 14 spots, so keep racing past this trophy.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "PowerPyx counts 42 races across 14 drone race locations.",
+          "cites": [
+            5
+          ]
+        },
+        {
+          "text": "Find the spots on the map and work through them in free-roam.",
+          "cites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 38,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 2,
+      "timeMin": 240,
+      "psnPoints": 15,
+      "counter": {
+        "target": 20,
+        "label": "different races won",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Win 20 different races out of the 40 available. Winning the same race twice does not count.",
+      "steps": [
+        {
+          "text": "Win 20 different races out of the 40 available.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Winning the same race again does not count — each win must be a new race.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Mix race types freely; any 20 count.",
+          "cites": [
+            5,
+            8
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S1",
+      "roadmapOrder": 5,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 2,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Beat Cal in a fishing challenge. After the Chapter 1 mission Feng Shui he texts you a marked fishing spot — follow his questline.",
+      "steps": [
+        {
+          "text": "After the Chapter 1 mission Feng Shui, when you have met Cal, watch for his text marking a fishing location with a purple map icon.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Follow his fishing questline to unlock his challenge.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Beat Cal in the fishing challenge itself.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "If the challenge is not offered yet, work through Cal's earlier fishing quests first — the challenge unlocks through his questline.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "Push Square alone adds that Cal asks for a Parrotfish over 2kg, fished from a boat with a rod. Single-source tip — no other guide read gives the fish species or weight.",
+          "source": "Push Square"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S1",
+      "roadmapOrder": 6,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 2,
+      "timeMin": 90,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Complete any one of the 4 arcade games. Three are on the TV at home; the fourth is on arcade machines around Leonida.",
+      "steps": [
+        {
+          "text": "There are 4 arcade games (Video Games in-game): Tenebrae Lux, Street Trash III, Time Jackers Rewind, Bang For Your Buck.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The first three are playable on the TV at home via the controllers, from Chapter 1; the fourth is on arcade machines around Leonida.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "To complete a game, finish all its levels at least once — beating every challenge is not needed.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Any one game counts; pick the one you find easiest.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 15,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 2,
+      "timeMin": 180,
+      "psnPoints": 15,
+      "counter": {
+        "target": 5,
+        "label": "Andy quests completed",
+        "unit": ""
+      },
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Andy's five-quest storyline. Lucia-only, starts in Chapter 3 in Belville — still open after the story.",
+      "steps": [
+        {
+          "text": "Andy's questline is Lucia-only and starts in Chapter 3, when he calls and then texts her an address in Belville.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Work through the five quests in order: Climbing the Cellerichain (Parts 1–3), Pay the Cellerica Fee, Peach!, Read the Label, and Puff Puff Pass.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The last quest, Puff Puff Pass (Meet at the Warehouse), awards the trophy.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "All quests stay available after the story.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Watch for the questline to be marked automatically in Chapter 3.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S1",
+      "roadmapOrder": 7,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 2,
+      "timeMin": 240,
+      "psnPoints": 15,
+      "counter": {
+        "target": 7,
+        "label": "shipwrecks recovered",
+        "unit": ""
+      },
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Kenton's treasure-diving storyline: recover treasure from 7 shipwrecks. He goes quiet after Chapter 1, then comes back.",
+      "steps": [
+        {
+          "text": "Kenton's questline starts in Chapter 1 — after the mission Island Dreams he calls, then is marked by the green KR icon in Key Lento.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Dive at the purple treasure-chest markers and use the metal detector to dig treasure from the ocean floor; bring it back to Kenton.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "There are 7 shipwrecks in total; after the first set he calls you back and marks more locations.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Track progress under Progress > Characters > Kenton Rees and Progress > Collections > Kenton's Treasures — he is briefly unavailable after Chapter 1, then returns.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "Push Square alone names Kenton's final mission 'Maritime Disputes'.",
+          "source": "Push Square"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 11,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 2,
+      "timeMin": 180,
+      "psnPoints": 15,
+      "counter": {
+        "target": 5,
+        "label": "Billy jobs completed",
+        "unit": ""
+      },
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Billy's five jobs at the Thrillbilly Mudclub in Kelly County. Starts after Coffee Break in Chapter 2.",
+      "steps": [
+        {
+          "text": "Billy's questline starts after the Chapter 2 mission Coffee Break, at Thrillbilly Mudclub in Kelly County.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Work through the five jobs in order: Thrillbillies, Twist Wrist, Smash, Grab, Mall Rats, The Impaler, and Hometown Heroes.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The last job, Hometown Heroes, awards the trophy.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "All five stay available after the story.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "The jobs are marked automatically once the questline opens.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S4",
+      "roadmapOrder": 29,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 3,
+      "timeMin": 600,
+      "psnPoints": 30,
+      "counter": {
+        "target": 8,
+        "label": "stranger strands completed",
+        "unit": ""
+      },
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Complete 8 qualifying stranger strands — but only some questlines count. Kirk, Kyle, Yago and Pilot Pete do; Andy, Billy, Tyrone and the rest do not.",
+      "steps": [
+        {
+          "text": "Finish 8 qualifying stranger strands — only some questlines count.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Confirmed counting strands: Kirk (Skunk Ape / Mr. Mangrove), Kyle (McKittrick Farm), Yago (street racing), and Pilot Pete (The Last Mile and deliveries).",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "These do NOT count: Moses, Tyrone, Yasmani, Andy, Billy, and Eddie — they have their own trophies or are not strangers.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Do Race Against Yago the moment it appears — OutputLag alone flags it as time-sensitive (hourglass icon).",
+          "cites": [
+            2
+          ]
+        },
+        {
+          "text": "Check the trophy's progress counter after each strand you finish; all strands stay available after the story.",
+          "cites": [
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "eGamers alone warns that stranger mission chains have windows tied to story progress, attributing the claim to TechWiser — but the TechWiser article actually read contains no such claim, so this is unverified at origin and shown only as one outlet's warning.",
+          "source": "eGamers (via TechWiser, unverified)"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 16,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 3,
+      "timeMin": 300,
+      "psnPoints": 15,
+      "counter": {
+        "target": 16,
+        "label": "sports cars delivered to Randy",
+        "unit": ""
+      },
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Deliver all 16 sports cars on Randy's Wish List to his garage in west Vice City. The list opens after Clonin' Keys, Makin' GS.",
+      "steps": [
+        {
+          "text": "Randy's Wish List opens after the Chapter 3 mission Clonin' Keys, Makin' GS, which also unlocks the Key Cloner.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Deliver the 16 sports cars on his list to his garage in west Vice City (green RK icon); the first, the Granforma Zorrusso, is delivered in the story mission itself.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Scan cars with WAiNK to see if they are on the list, and look around Vice Beach and Ocean Beach hotel driveways — cars in better condition pay more.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Track the list under Map > Robberies > Randy's Wish List; still doable after the story.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 17,
+      "kinds": [
+        "side",
+        "missable"
+      ],
+      "difficulty": 2,
+      "timeMin": 120,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": "watch",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Finish Tyrone's storyline: destroy the synthetic labs around Vice City, then shut them down for good. Jason-only.",
+      "steps": [
+        {
+          "text": "Tyrone's questline is Jason-only and opens after the Chapter 3 mission Here, Kitty Kitty.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Destroy the synthetic labs marked in purple around Vice City (quest: Take Out Kitty Litter).",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Once enough labs are gone, his last job, Spin On This (Shut Down the Labs), awards the trophy.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Still available after the story.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S1",
+      "roadmapOrder": 8,
+      "kinds": [
+        "collectibles",
+        "missable"
+      ],
+      "difficulty": 2,
+      "timeMin": 240,
+      "psnPoints": 15,
+      "counter": {
+        "target": 18,
+        "label": "meditations completed",
+        "unit": ""
+      },
+      "missable": "possible",
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Meditate at all 18 spots across 10 locations, with both Jason and Lucia. The first one — Lucia on the balcony at Jason's house, Chapter 1 — vanishes after the chapter.",
+      "steps": [
+        {
+          "text": "Meditate at all 18 spots across 10 locations, with both Jason and Lucia — meditating together at a spot counts twice.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Do the Chapter 1 balcony meditation first: after the mission Down to Earth, find Lucia in the kitchen in the morning, follow her to the balcony, and choose Accept.",
+          "cites": [
+            1,
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "text": "That first meditation is gone once Chapter 1 ends, and nobody has confirmed whether the trophy needs it — do it anyway and keep a Chapter 1 save.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "The last meditation needs both characters playable together, possible after Coffee Break in Chapter 2.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Track progress under Progress > Collections > Exploration > Meditations.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "For the 100% checklist only 15 of the 18 are needed — the trophy itself needs 18.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D2",
+          "title": "Missables: one possibly missable vs none known",
+          "a": "Possibly 1 missable: PowerPyx, GTABase, KeenGamer, OutputLag, GTA Zone and eGamers all flag this trophy — the Chapter 1 balcony meditation disappears after the chapter.",
+          "aCites": [
+            1,
+            2,
+            3,
+            5,
+            8
+          ],
+          "b": "No known missables: Push Square's full trophy guide contains no missable warning anywhere and never mentions the Chapter 1 meditation at all. It never says 'no missables' in so many words — it is silent on the question.",
+          "bCites": []
+        },
+        {
+          "id": "D5",
+          "title": "Duo-play unlock point: after Breakfast Run vs after Coffee Break",
+          "a": "After Coffee Break in Chapter 2: PowerPyx and GTABase both put duo play — and the last meditation — after Coffee Break.",
+          "aCites": [
+            1,
+            5
+          ],
+          "b": "After Breakfast Run in Chapter 2: OutputLag says switching between Jason and Lucia opens right after Breakfast Run.",
+          "bCites": [
+            2
+          ]
+        }
+      ],
+      "resolvedNote": "RESOLVED — not a live conflict: 18 for the trophy, 15 for the 100% list. PSNProfiles' 0/18 counter settles it for the trophy itself. eGamers' comparison table frames 18 vs 15 as a disagreement between sources, but the two numbers measure two different things.",
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S4",
+      "roadmapOrder": 30,
+      "kinds": [
+        "side"
+      ],
+      "difficulty": 3,
+      "timeMin": 300,
+      "psnPoints": 15,
+      "counter": {
+        "target": 15,
+        "label": "Target Decks completed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Hunt for Bret Vogel. His questline is Jason-only and starts after Coffee Break — which animal exactly triggers the trophy is still unconfirmed.",
+      "steps": [
+        {
+          "text": "Bret's hunting questline is Jason-only and starts after the Chapter 2 mission Coffee Break — he texts Jason and marks Veteran Hunted in Lummox County.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Hunt the animals on his Target Decks (purple icons) and bring them back to Bret as Jason.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "A clean one-shot kill keeps the carcass pristine and pays more, but is not required.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Which animal exactly unlocks the trophy is still unconfirmed — the 100% checklist needs all 15 Target Decks anyway.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S4",
+      "roadmapOrder": 31,
+      "kinds": [
+        "collectibles"
+      ],
+      "difficulty": 2,
+      "timeMin": 300,
+      "psnPoints": 30,
+      "counter": {
+        "target": 3,
+        "label": "card sets completed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Complete any 3 Collectible Card sets out of the 18. The Collections menu shows how close each set is.",
+      "steps": [
+        {
+          "text": "Complete any 3 Collectible Card sets out of the 18.",
+          "cites": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "You do not need all of them — the Collections section of the Progress menu shows how close each set is.",
+          "cites": [
+            5
+          ]
+        },
+        {
+          "text": "The 100% checklist needs 15 of the 18 sets, so keep collecting past this trophy.",
+          "cites": [
+            3,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S4",
+      "roadmapOrder": 32,
+      "kinds": [
+        "collectibles"
+      ],
+      "difficulty": 2,
+      "timeMin": 240,
+      "psnPoints": 30,
+      "counter": {
+        "target": 100,
+        "label": "WAiNK locations scanned",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Scan 100 WAiNK spots with the phone app — any 100 count, across Landmarks, Curiosities, Sculptures and No Flusher tags.",
+      "steps": [
+        {
+          "text": "Scan 100 WAiNK spots with the WAiNK phone app (hold Up, then R1) — any 100 count.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "The spots split into 31 Landmarks, 35 Curiosities, 23 Sculptures, and No Flusher tags.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "There are more than 100 in the world, so pick the ones nearest your route.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The 100% checklist needs the same 100 scans, so this pops on the way to A Long Road.",
+          "cites": [
+            1,
+            3
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 39,
+      "kinds": [
+        "activities"
+      ],
+      "difficulty": 2,
+      "timeMin": 600,
+      "psnPoints": 15,
+      "counter": {
+        "target": 50,
+        "label": "challenges completed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Complete any 50 of the 80 challenges. Most finish on their own while you play — 100% needs 70, so this comes along the way.",
+      "steps": [
+        {
+          "text": "Complete any 50 of the 80 challenges.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "View and track them under Progress > Challenges — finished ones show a Completed checkmark.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Many complete naturally while working on other trophies, so leave the grind until late and pick the easiest remaining ones.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "The 100% checklist needs 70 of the 80, so this unlocks along the way.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S2",
+      "roadmapOrder": 18,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 2,
+      "timeMin": 30,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "With your partner beside you, hit 4 stars and escape — it only pops once you are out of the red heat zone.",
+      "steps": [
+        {
+          "text": "Only possible once Jason and Lucia are together (after Coffee Break in Chapter 2) — call your partner by holding Right, then Triangle.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Get a 4-star wanted level, then escape — the trophy pops only once you are out of the red heat zone, not just out of the flashing search area.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Easiest escape: drive through the train tunnel north of Ambrosia in Kelly County — cops struggle on the tracks and the helicopter cannot see you.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "It also pops during the Chapter 4 optional mission That's Where The Money Is… and during bank vault robberies, which always trigger 4 stars.",
+          "cites": [
+            1,
+            2
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D5",
+          "title": "Duo-play unlock point: after Breakfast Run vs after Coffee Break",
+          "a": "After Coffee Break in Chapter 2: PowerPyx and GTABase both put duo play after Coffee Break.",
+          "aCites": [
+            1,
+            5
+          ],
+          "b": "After Breakfast Run in Chapter 2: OutputLag says switching between Jason and Lucia opens right after Breakfast Run.",
+          "bCites": [
+            2
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S2",
+      "roadmapOrder": 19,
+      "kinds": [
+        "feats",
+        "crime"
+      ],
+      "difficulty": 3,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "With your partner, rob 3 shops in a row while still wanted. The 3 jewelry stores in north Vice City sit close together.",
+      "steps": [
+        {
+          "text": "Only after Coffee Break in Chapter 2 — call your partner (hold Right, press Triangle), then rob 3 shops in a row while still wanted.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Stay in the flashing red/blue wanted level the whole time — if the stars fade to only the red heat zone, the chain breaks.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Good spot: the 3 jewelry stores in north Vice City, open after Yasmani's Jewelry Jobs in Chapter 3; go in with body armor, sticky bombs, and healing items.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The pop is delayed about 30 seconds after leaving the third shop — wait before hitting a fourth; if it still has not popped, rob a fourth.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D5",
+          "title": "Duo-play unlock point: after Breakfast Run vs after Coffee Break",
+          "a": "After Coffee Break in Chapter 2: PowerPyx and GTABase both put duo play after Coffee Break.",
+          "aCites": [
+            1,
+            5
+          ],
+          "b": "After Breakfast Run in Chapter 2: OutputLag says switching between Jason and Lucia opens right after Breakfast Run.",
+          "bCites": [
+            2
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 40,
+      "kinds": [
+        "collectibles"
+      ],
+      "difficulty": 1,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": {
+        "target": 100,
+        "label": "vehicles discovered",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Discover 100 vehicles by scanning them with WAiNK. You do not need to drive them — stand by a busy road and scan traffic.",
+      "steps": [
+        {
+          "text": "Scan 100 different vehicles with the WAiNK app (hold Up, then R1) — you do not need to drive them.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Stand at a busy road and scan passing traffic; scanning is enough.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Check discovered vehicles under Touchpad > Progress > Vehicles.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "The 100% checklist needs 200 base-model vehicles, so this comes automatically.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "Push Square alone adds that getting inside a vehicle also discovers it, not only scanning. Compatible with the guides, not contradictory.",
+          "source": "Push Square"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S6",
+      "roadmapOrder": 42,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 3,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Take down 5 enemies in one Combat Focus. Fill Focus first, use an assault rifle, and pick gang thugs — cops and civilians do not count.",
+      "steps": [
+        {
+          "text": "Activate Combat Focus with L3 + R3 while aiming a firearm — it slows time and drains the purple focus bar.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Fill Focus first (eat, drink, or wash up at home; Adrenaline extends Focus) and use an assault rifle like the Duke 556.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Take down 5 enemies in a single use — gang operation thugs work well; cops, soldiers, and civilians do not seem to count.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "It gets easier as Focus levels up (4 levels) — raise it via shooting ranges, golf, pool, fishing, and headshots.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 43,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 2,
+      "timeMin": 15,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Steal a passenger jet docked at a VCIA boarding bridge — gates E3/E4 are easiest — take off, and fly about 1 km away.",
+      "steps": [
+        {
+          "text": "At VCIA, steal a large passenger plane docked to a departure terminal's boarding bridge — planes parked on the airfield do not count.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Easiest: the plane at gates E3/E4 — drive through a fence, use the stairs by the boarding bridge, go upstairs to the cockpit.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Drive the plane backward to the airstrip, take off, and fly about 1 km (0.6 miles) away — the pop is delayed until you are that far out.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Save first — the police come fast.",
+          "cites": [
+            2
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 44,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 2,
+      "timeMin": 20,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Steal a Rhino tank from Mile Zero Air Station, on the island at the far south-west of the map, and take out enemies from inside it.",
+      "steps": [
+        {
+          "text": "Find the military tanks at Mile Zero Air Station, on the island at the far south-west of the map — they stand at the south end of the base.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Drive through the gate or use the stunt jump next to the south-east entrance.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Get in a tank and shoot enemies until the trophy pops.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Save first — the base is guarded.",
+          "cites": [
+            2
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S2",
+      "roadmapOrder": 20,
+      "kinds": [
+        "feats",
+        "crime"
+      ],
+      "difficulty": 2,
+      "timeMin": 45,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Rob a jewelry store unseen. Yasmani's Jewelry Jobs gives you the Snap Gun for the locked back door — kicking it in sets off the alarm.",
+      "steps": [
+        {
+          "text": "First finish the Chapter 3 mission Yasmani's Jewelry Jobs — it unlocks the Snap Gun and jewelry store robberies.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Use the Snap Gun on a store's locked back door — kicking it in sets off the alarm.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "In the back room, find the note with the safe code, open the safe, destroy the security footage, and disable the alarm — then leave without being seen.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Good target: Richardson Jewelry & Diamonds in Vice City; the trophy pops shortly after leaving.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "stage": "S3",
+      "roadmapOrder": 27,
+      "kinds": [
+        "crime",
+        "money"
+      ],
+      "difficulty": 3,
+      "timeMin": 180,
+      "psnPoints": 30,
+      "counter": {
+        "target": 5,
+        "label": "bank vaults robbed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Rob 5 of the 8 bank vaults and escape. Vaults open with the Chapter 4 optional mission That's Where The Money Is… — bring your partner, the haul is too heavy alone.",
+      "steps": [
+        {
+          "text": "First finish the Chapter 4 optional mission That's Where The Money Is… (Wait at the Cafe), which introduces bank vault robberies.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Tail a security van until it stops at a bank, then go in quickly while the guard has the vault open.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "You cannot carry all the cash alone — bring your partner and hold Right to hand off one bag.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Robbing a vault instantly gives a 4-star wanted level — escape on a fast motorcycle, then switch vehicles.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Only any 5 of the 8 vaults are needed here (all 8 for 100%); each pays up to $205,000, and Yasmani sells van tips for $10,000.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D6",
+          "title": "Maximum Withdrawal grade: Silver vs Bronze",
+          "a": "Silver, 40G: the official list, GTABase, OutputLag, KeenGamer, eGamers, GTA Zone, PSNProfiles and PlanetGTA6 all agree on Silver.",
+          "aCites": [
+            1,
+            2,
+            3,
+            5,
+            8
+          ],
+          "b": "Bronze: Push Square alone lists Maximum Withdrawal as Bronze in its trophy guide — the only grade dissent found in any source read. The displayed grade is Silver, per the official list.",
+          "bCites": []
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S3",
+      "roadmapOrder": 28,
+      "kinds": [
+        "feats",
+        "crime",
+        "money"
+      ],
+      "difficulty": 2,
+      "timeMin": 15,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Rob an armored truck and escape. A bank vault job counts — or box in a truck, sticky-bomb its back doors, and get away.",
+      "steps": [
+        {
+          "text": "Robbing a bank vault (see #40) counts as robbing an armored truck — tail the truck to the bank and get into the vault while it is open.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Before vaults unlock, box in an armored truck near a bank, plant a sticky bomb on its back door, and blow it open.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The trophy pops only after escaping the red heat zone — or use a Pay 'n' Spray.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "All 8 Large Bank Jobs are needed for 100%, so this comes automatically.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S5",
+      "roadmapOrder": 41,
+      "kinds": [
+        "collectibles"
+      ],
+      "difficulty": 2,
+      "timeMin": 600,
+      "psnPoints": 15,
+      "counter": {
+        "target": 52,
+        "label": "areas of Leonida explored",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Unfog the whole map of Leonida — all 52 areas. Fastest by plane, flying over every dark patch.",
+      "steps": [
+        {
+          "text": "Fully unfog the whole map of Leonida — all 52 areas.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Fastest by plane: fly over every dark patch until the entire map is visible.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "The map unfogs as you travel, so this finishes naturally while doing everything else.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S7",
+      "roadmapOrder": 51,
+      "kinds": [
+        "crime"
+      ],
+      "difficulty": 2,
+      "timeMin": 300,
+      "psnPoints": 15,
+      "counter": {
+        "target": 9,
+        "label": "gangs robbed",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Rob one illegal operation from each of the 9 gangs. 100% needs all 39 operations, so this pops on the way.",
+      "steps": [
+        {
+          "text": "Rob one illegal operation from each of the 9 gangs — operations show as yellow icons when you go near them.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Track each gang under Progress > Gangs.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Only 1 per gang is needed here, but 100% needs all 39, so this pops on the way.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Many operations are marked automatically from story progress.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 45,
+      "kinds": [
+        "feats",
+        "riddles",
+        "mystery"
+      ],
+      "difficulty": 1,
+      "timeMin": 10,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": true,
+      "short": "Drink an Apple Martini at the Ocean View Rooftop Bar. Single-source method — PowerPyx is the only guide with steps; five others still list it unconfirmed.",
+      "steps": [
+        {
+          "text": "Go to the Ocean View Rooftop Bar.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Buy an Apple Martini.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Drink it while standing next to the bar.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Five other guides still list this trophy as unconfirmed — this is a single-source method (PowerPyx only), shown as such.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D7",
+          "title": "Method known vs unconfirmed (plus stale second-hand claims)",
+          "a": "A specific method is known: PowerPyx says go to the Ocean View Rooftop Bar, buy an Apple Martini, and drink it standing next to the bar.",
+          "aCites": [
+            1
+          ],
+          "b": "Exact steps unconfirmed: OutputLag, KeenGamer, GTABase, GTA Zone and eGamers all list the trigger as unconfirmed. eGamers and GTA Zone also claim PowerPyx marks it unknown — that was true of an earlier PowerPyx version and is stale against the page read on 20 Nov 2026.",
+          "bCites": [
+            2,
+            3,
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 46,
+      "kinds": [
+        "feats",
+        "mystery"
+      ],
+      "difficulty": 2,
+      "timeMin": 15,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": true,
+      "short": "Steal the blue Banshee from the showroom in south Vice City and drive it through the window. Single-source method — PowerPyx only.",
+      "steps": [
+        {
+          "text": "First get the Key Cloner in the Chapter 3 mission Clonin' Keys, Makin' Gs.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Steal the blue Banshee from the vehicle showroom in the south of Vice City — only this car works.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Drive it forward straight through the showroom window.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "The pop is slightly delayed and comes after you drive further away on the street — a single-source method (PowerPyx only).",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D7",
+          "title": "Method known vs unconfirmed (plus stale second-hand claims)",
+          "a": "A specific method is known: PowerPyx says steal the blue Banshee from the showroom in south Vice City (needs the Key Cloner from Chapter 3) and drive it through the showroom window.",
+          "aCites": [
+            1
+          ],
+          "b": "Exact steps unconfirmed: OutputLag, KeenGamer, GTABase, GTA Zone and eGamers all list the trigger as unconfirmed. eGamers and GTA Zone also claim PowerPyx marks it unknown — that was true of an earlier PowerPyx version and is stale against the page read on 20 Nov 2026.",
+          "bCites": [
+            2,
+            3,
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S2",
+      "roadmapOrder": 12,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 2,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": {
+        "target": 3,
+        "label": "key valuables stolen at Kingpin Bowling",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Rob Kingpin Bowling in Port Gellhorn: take all 3 key valuables, then escape the police. Bring sticky bombs for the safe.",
+      "steps": [
+        {
+          "text": "Go to Kingpin Bowling in Port Gellhorn — a gang operation, first marked by the Chapter 2 optional mission Hit Kingpin Bowling.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Bring sticky bombs from an Ammu-Nation — they are needed to blow open the safe.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Take all 3 key valuables: the Luxury watch in the south-east office, the Gutterball Moreland 850 shotgun on the north-east table, and the safe in the north-east hallway.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "The trophy pops after you escape the police, not when you pick up the third item — and you do not need all three in one visit.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S4",
+      "roadmapOrder": 33,
+      "kinds": [
+        "feats"
+      ],
+      "difficulty": 3,
+      "timeMin": 600,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Max out Strength for both Jason and Lucia at the same time. Train together — working out with one trains the other too.",
+      "steps": [
+        {
+          "text": "Only after Coffee Break in Chapter 2, when you can switch between both characters.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Raise Strength to maximum for both Jason and Lucia — check it under Touchpad > Jason & Lucia > Strength.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Buy a gym membership and always train together — while you work out with one character, the other trains automatically, so you make double progress.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Filter the map for fitness clubs (dumbbell icon); after the story you can also train at home.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D5",
+          "title": "Duo-play unlock point: after Breakfast Run vs after Coffee Break",
+          "a": "After Coffee Break in Chapter 2: PowerPyx and GTABase both put duo play after Coffee Break.",
+          "aCites": [
+            1,
+            5
+          ],
+          "b": "After Breakfast Run in Chapter 2: OutputLag says switching between Jason and Lucia opens right after Breakfast Run.",
+          "bCites": [
+            2
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 47,
+      "kinds": [
+        "feats",
+        "crime"
+      ],
+      "difficulty": 1,
+      "timeMin": 300,
+      "psnPoints": 15,
+      "counter": {
+        "target": 500,
+        "label": "actions affecting your Criminal Profile",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Perform 500 actions that affect your Criminal Profile. It fills up on its own across robberies and fights — do not push toward Irredeemable, it is permanent.",
+      "steps": [
+        {
+          "text": "Perform 500 actions that affect your Criminal Profile — robberies and enemy encounters all count.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Turn on Criminal Profile notifications (Settings > UI > HUD Notifications > Criminal Profile) to watch the count — the trophy list itself shows the running total.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "It usually comes naturally while working on all other trophies; do not push toward the Irredeemable profile — it is permanent.",
+          "cites": [
+            1,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "If it is still missing at the end, farm it by running over civilians and cops with a car.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "The 500 figure traces to GTABase as a single origin — but PSNProfiles' 0/500 counter confirms the number independently from platform data.",
+          "source": "GTABase origin, PSNProfiles counter"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 48,
+      "kinds": [
+        "feats",
+        "riddles",
+        "mystery",
+        "unconfirmed"
+      ],
+      "difficulty": 1,
+      "timeMin": null,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": true,
+      "singleSource": false,
+      "short": "Not pinned down yet. No source has a method — the only lead anywhere is PowerPyx's stated belief that it relates to the Payday Loans store from the Prologue.",
+      "steps": [
+        {
+          "text": "No source has a method for this trophy — PowerPyx's only lead is a stated belief that it relates to the Payday Loans store from the Prologue, not a confirmed step.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Treat it as not pinned down yet: keep playing, watch for updates, and do not grind anything for it on this lead alone.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 49,
+      "kinds": [
+        "feats",
+        "riddles",
+        "mystery"
+      ],
+      "difficulty": 2,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": true,
+      "short": "Complete the UFO Easter Egg: north-west of Starlet Motel in Kelly County, at night after 2AM, alone. Single-source method — PowerPyx only.",
+      "steps": [
+        {
+          "text": "Go to the road north-west of Starlet Motel in Kelly County, at night after 2AM, alone.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Look for the blinking car at the roadside — if it is not there, drive away and come back; the spawn is slightly random.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Follow the path into the woods next to the car to find the UFO (bright blue light in the sky), approach it, and talk to the woman it drops.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Offer to help her and go back to her car at the roadside — a single-source method (PowerPyx only).",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "id": "D7",
+          "title": "Method known vs unconfirmed (plus stale second-hand claims)",
+          "a": "A specific method is known: PowerPyx says complete the UFO Easter Egg at the road north-west of Starlet Motel in Kelly County, at night after 2AM, solo — find the blinking car, follow the path into the woods, approach the UFO, and help the woman it drops back to her car.",
+          "aCites": [
+            1
+          ],
+          "b": "Exact steps unconfirmed: OutputLag, KeenGamer, GTABase, GTA Zone and eGamers all list the trigger as unconfirmed. eGamers and GTA Zone also claim PowerPyx marks it unknown — that was true of an earlier PowerPyx version and is stale against the page read on 20 Nov 2026.",
+          "bCites": [
+            2,
+            3,
+            5,
+            8
+          ]
+        }
+      ],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "stage": "S6",
+      "roadmapOrder": 50,
+      "kinds": [
+        "feats",
+        "riddles",
+        "mystery",
+        "unconfirmed"
+      ],
+      "difficulty": 2,
+      "timeMin": 15,
+      "psnPoints": 15,
+      "counter": null,
+      "missable": null,
+      "unconfirmed": true,
+      "singleSource": false,
+      "short": "Not pinned down yet. No source has a method — the only lead anywhere is PowerPyx's stated belief about kicking enemies from a motorcycle.",
+      "steps": [
+        {
+          "text": "No source has a method for this trophy — PowerPyx's only lead is a stated belief that it comes from kicking enemies while driving a motorcycle, not a confirmed step.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "Treat it as not pinned down yet: the description points to a melee drive-by, but the exact trigger is unconfirmed.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S7",
+      "roadmapOrder": 52,
+      "kinds": [
+        "crime",
+        "money"
+      ],
+      "difficulty": 2,
+      "timeMin": 600,
+      "psnPoints": 15,
+      "counter": {
+        "target": 250000,
+        "label": "$ in marked bills laundered",
+        "unit": "$"
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Launder a cumulative $250,000 in marked bills through fences. Yasmani in Vice City pays the most — it builds up during the 100% robberies.",
+      "steps": [
+        {
+          "text": "First finish the Chapter 3 mission Credit Check (Meet Raul's Crew), which unlocks the Dye Pack Jammer.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Rob banks and Payday Loans, then bring the marked bills to a fence — Yasmani in Vice City pays the most.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Deliver a total of $250,000 in marked bills — it counts across all robberies, no need to bring it at once.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Bank vaults give up to $205,000 in a single robbery, but only unlock after the Chapter 4 optional mission That's Where The Money Is….",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S7",
+      "roadmapOrder": 53,
+      "kinds": [
+        "money"
+      ],
+      "difficulty": 1,
+      "timeMin": 120,
+      "psnPoints": 15,
+      "counter": {
+        "target": 100000,
+        "label": "$ spent across all shops",
+        "unit": "$"
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Spend a cumulative $100,000 across all shops. Guns, car mods and tattoos burn through it fastest.",
+      "steps": [
+        {
+          "text": "Spend a total of $100,000 across all types of shops — it is a running total.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Guns, car mods, and tattoos are the fastest way through it — they are the most expensive.",
+          "cites": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Shop counts: 14 Mod Shops, 19 Pay 'n' Sprays, 24 Ammu-Nations, 67 Clothing Stores, 17 Footwear Stores, 18 Hair & Beauty Salons, 11 Tattoo Studios, 15 Electronics Stores.",
+          "cites": [
+            1
+          ]
+        },
+        {
+          "text": "It builds up naturally while buying gear for other trophies.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S7",
+      "roadmapOrder": 54,
+      "kinds": [
+        "money"
+      ],
+      "difficulty": 1,
+      "timeMin": 60,
+      "psnPoints": 15,
+      "counter": {
+        "target": 8,
+        "label": "garages purchased",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Buy the 8 purchasable garages in the Vice City Real Estate app — about $160,000 total. The 4 story garages do not count.",
+      "steps": [
+        {
+          "text": "Buy the 8 purchasable garages through the Vice City Real Estate phone app — about $160,000 in total.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "The app unlocks after the Chapter 2 mission Daily Driver (Steal the Crawler for Moses).",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "The 4 garages the story gives you do not count.",
+          "cites": [
+            1,
+            2,
+            5,
+            8
+          ]
+        },
+        {
+          "text": "Robberies are the quickest way to make the money, especially in Chapters 3–4.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "Push Square alone names all 8 garages with prices summing to exactly $160,000: Mitchel Auto Center $4,000; 7th Avenue Garage $12,000; Vela Rota Drive Garage $24,000; Persistence Road Garage $7,600; Wyatt Motors $21,600; Bonita Court Garage $34,000; Atlantic Court Garage $40,000; Store n' Bolt $16,800. Each has 1 parking spot.",
+          "source": "Push Square"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "stage": "S7",
+      "roadmapOrder": 55,
+      "kinds": [
+        "money"
+      ],
+      "difficulty": 2,
+      "timeMin": 90,
+      "psnPoints": 15,
+      "counter": {
+        "target": 10,
+        "label": "vehicles registered",
+        "unit": ""
+      },
+      "missable": null,
+      "unconfirmed": false,
+      "singleSource": false,
+      "short": "Register 10 stolen vehicles through the Scooter Bros app. Buy garages first — each registration needs a free parking spot.",
+      "steps": [
+        {
+          "text": "The Scooter Bros app is installed on your phone after the Chapter 2 mission Moses (Take A Vehicle to Moses).",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "Drive stolen vehicles to Moses in Port Gellhorn; in his garage click Respray, then Register.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "At first he only accepts vehicles without trackers; from Chapter 3 you can also register cars with Standard Trackers at any Pay 'n' Spray.",
+          "cites": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "text": "You need free garage space first (see #54), and each registration costs money — use cheap low-end cars and bikes.",
+          "cites": [
+            1,
+            5
+          ]
+        }
+      ],
+      "disagreements": [],
+      "resolvedNote": null,
+      "notes": [
+        {
+          "text": "Push Square presents Pay 'n' Spray / Mod Shop registration as the general method, without the Moses/trackers staging — compatible if read as the later-game method.",
+          "source": "Push Square"
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="LEONIDA LEDGER v4 — an offline guide and tracker for all 55 GTA VI trophies, with cited methods, a roadmap to the platinum, and saved progress.">
+<title>LEONIDA LEDGER v4 — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="title-block">
+    <h1>LEONIDA LEDGER <span class="v4">v4</span></h1>
+    <p class="subtitle">GTA VI Trophy Guide &amp; Tracker · 55 trophies · offline · unofficial fan guide</p>
+  </div>
+  <div class="header-stats">
+    <p id="earned-count" class="big">0/55 (0%)</p>
+    <p id="grade-counts">P 0/1 · G 0/2 · S 0/6 · B 0/46</p>
+    <p id="psn-points">0/1350 PSN pts</p>
+    <p id="in-progress">0 in progress</p>
+  </div>
+  <div class="header-actions">
+    <button id="theme-toggle" type="button">Theme: light</button>
+    <button id="spoiler-toggle" type="button">Spoilers: hidden</button>
+    <button id="export-btn" type="button">Export</button>
+    <label class="import-label">Import <input id="import-input" type="file" accept="application/json"></label>
+    <button id="reset-btn" type="button">Reset</button>
+    <p id="saved-stamp" class="saved">Saved in this browser —</p>
+  </div>
+</header>
+
+<section id="audit-strip" class="audit" aria-label="Audit"></section>
+<section id="cited-by-strip" class="cited-by" aria-label="Cited by"></section>
+
+<div id="missable-banner" class="banner" hidden>
+  <strong>Possibly missable:</strong> <span id="missable-text"></span>
+  <button id="missable-show" type="button">Show it</button>
+</div>
+
+<nav class="tabs" aria-label="Views">
+  <button class="tab active" data-tab="checklist" type="button">Checklist</button>
+  <button class="tab" data-tab="roadmap" type="button">Roadmap</button>
+  <button class="tab" data-tab="matrix" type="button">Source matrix</button>
+  <button class="tab" data-tab="missables" type="button">Missables &amp; watch</button>
+  <button class="tab" data-tab="nextup" type="button">Next up</button>
+  <button class="tab" data-tab="progress" type="button">Progress</button>
+</nav>
+
+<section id="view-checklist" class="view">
+  <div class="toolbar">
+    <div id="filters" class="chips" aria-label="Filters"></div>
+    <div class="toolbar-row">
+      <label>Grade <select id="grade-select">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select></label>
+      <label>Sort <select id="sort-select">
+        <option value="roadmap">Roadmap</option>
+        <option value="grade">Grade</option>
+        <option value="az">A–Z</option>
+        <option value="difficulty">Difficulty</option>
+      </select></label>
+      <label>Search <input id="search-input" type="search" placeholder="Search trophies…"></label>
+    </div>
+    <p id="showing-line" class="showing"></p>
+  </div>
+  <div id="goal-row" class="goal-row">GOAL · 100% AND THE PLATINUM — earn the other 54 trophies and the platinum pops on its own.</div>
+  <div id="checklist"></div>
+</section>
+
+<section id="view-roadmap" class="view" hidden>
+  <h2>Roadmap to the platinum</h2>
+  <p class="view-intro">Eight stages, in play order. About 200 hours in total: 60–80 on the story, about 100 on the 100% checklist, about 10 on cleanup. One playthrough, no online trophies, no difficulty trophies, free-roam after the story.</p>
+  <div id="roadmap"></div>
+</section>
+
+<section id="view-matrix" class="view" hidden>
+  <h2>Source matrix</h2>
+  <p class="view-intro" id="confidence-legend"></p>
+  <div id="matrix"></div>
+  <h3>Sources</h3>
+  <ol id="source-list" class="source-list"></ol>
+</section>
+
+<section id="view-missables" class="view" hidden>
+  <h2>Missables &amp; watch</h2>
+  <p class="view-intro">One trophy is possibly missable. Six more are watch items: side questlines that are easy to put off, plus one time-sensitive race inside Strangers &amp; Freaks. Everything else stays available after the story.</p>
+  <div id="missables"></div>
+</section>
+
+<section id="view-nextup" class="view" hidden>
+  <h2>Next up</h2>
+  <p class="view-intro">Computed from your progress: missable risk first, then roadmap order, then shortest time. Click a row to open its guide.</p>
+  <ol id="nextup-list" class="nextup"></ol>
+</section>
+
+<section id="view-progress" class="view" hidden>
+  <h2>Progress</h2>
+  <div id="progress-view"></div>
+</section>
+
+<aside id="detail" class="detail" hidden aria-label="Trophy detail"></aside>
+
+<footer class="foot">
+  <p>Unofficial fan guide. GTA VI and Grand Theft Auto are trademarks of Rockstar Games / Take-Two Interactive. Our own wording. Sources read 20 Nov 2026. Works offline — 0 network requests.</p>
+  <p id="foot-note"></p>
+</footer>
+
+<script src="store.js"></script>
+<script src="views.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
